@@ -20,15 +20,15 @@ Os assuntos abordados são: Projetos de Automação de Processos, Análise de Da
 
 ✔️ **[Aula 1][aula-1]** - Automação de Processos e Tarefas com Python<br>
 ✔️ **[Aula 2][aula-2]** - Análise de Dados com Python<br>
-🚧 **[Aula 3][aula-3]** - Projeto Completo de Data Science + Machine Learning<br>
-🚧 **[Aula 4][aula-4]** - Automação Web (Web-Scraping) com Python<br>
+✔️ **[Aula 3][aula-3]** - Projeto Completo de Data Science + Machine Learning<br>
+✔️ **[Aula 4][aula-4]** - Automação Web (Web-Scraping) com Python<br>
 
 <!-- | STATUS | AULA | DATA  | ASSUNTO                                              |
 |:------:|:----:|:-----:|:-----------------------------------------------------|
 | ✔️    | 1    | 08/02 | [Automação de Processos e Tarefas com Python][aula-1] |
 | ✔️    | 2    | 09/02 | Análise de Dados com Python                          |
-| 🚧    | 3    | 10/02 | Projeto Completo de Data Science + Machine Learning  |
-| 🚧    | 4    | 11/02 | Automação Web (Web-Scraping) com Python              | -->
+| ✔️    | 3    | 10/02 | Projeto Completo de Data Science + Machine Learning  |
+| ✔️    | 4    | 11/02 | Automação Web (Web-Scraping) com Python              | -->
 
 ## 💡 Motivação
 
